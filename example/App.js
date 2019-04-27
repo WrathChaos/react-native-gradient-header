@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { StyleSheet, StatusBar, Text, View } from "react-native";
-import GradientHeader from "./lib/src/components/GradientHeader";
+import GradientHeader from "react-native-gradient-header";
 
 export default class App extends Component {
   render() {
