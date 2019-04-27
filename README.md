@@ -9,12 +9,12 @@ Fully customizable and unique shape Gradient Header for React Native.
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 <p align="center">
-<img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/Screenshots/example.png" width="49.7%"/>
+<img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/Screenshots/example.png" width="49.7%" height=150/>
 <img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/Screenshots/example1.png" width="49.7%"/>
 </p>
 <p align="center">
 <img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/Screenshots/example2.png" width="49.7%"/>
-<img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/Screenshots/example3.png" width="49.7%"/>
+<img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/Screenshots/example3.png" width="49.7%" height=200 />
 </p>
 
 ## Installation
@@ -82,6 +82,7 @@ import { GradientHeader } from "react-native-gradient-header";
 ### ToDos
 
 - [x] LICENSE
+- [ ] Expo Support (Coming Soon)
 - [ ] Write an article about the lib on Medium
 
 
