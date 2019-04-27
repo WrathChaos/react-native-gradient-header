@@ -8,11 +8,9 @@ export default class App extends Component {
       <View style={styles.container}>
         <StatusBar barStyle="light-content" />
         <GradientHeader
-          gradient
-          title="Title"
           subtitle="Have a nice day Kuray"
-          gradientColors={["#00416A", "#E4E5E6"]}
           imageSource={require("./assets/profile.jpg")}
+          gradientColors={["#7F7FD5", "#86A8E7", "#91EAE4"]}
         />
         <Text style={styles.welcome}>Welcome to React Native!</Text>
       </View>

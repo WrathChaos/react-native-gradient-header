@@ -9,10 +9,11 @@ const styles = {
 
 const GradientHeader = props => {
   const {
-    start,
     end,
+    start,
     title,
     gradient,
+    position,
     subtitle,
     shapeColor,
     imageSource,
@@ -23,8 +24,9 @@ const GradientHeader = props => {
   return (
     <View style={styles.container}>
       <Shape
-        start={start}
         end={end}
+        start={start}
+        position={position}
         gradient={gradient}
         shapeColor={shapeColor}
         gradientColors={gradientColors}
