@@ -1,6 +1,6 @@
 {
   "name": "react-native-gradient-header",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Fully customizable and unique shape Gradient Header for React Native.",
   "keywords": [
     "gradient",
@@ -27,9 +27,7 @@
     "react": ">= 16.x.x",
     "react-native": ">= 0.55.x",
     "react-native-fast-image": ">= 5.x.x",
-    "react-native-vector-icons": ">= 6.x.x",
     "react-native-iphone-x-helper": ">= 1.x.x",
-    "react-native-linear-gradient": ">= 2.x.x",
-    "react-native-dynamic-vector-icons": ">= 0.0.3"
+    "react-native-linear-gradient": ">= 2.x.x"
   }
 }

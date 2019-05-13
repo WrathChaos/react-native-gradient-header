@@ -36,10 +36,8 @@ npm i react-native-gradient-header
 "react": ">= 16.x.x",
 "react-native": ">= 0.55.x",
 "react-native-fast-image": ">= 5.x.x",
-"react-native-vector-icons": ">= 6.x.x",
 "react-native-iphone-x-helper": ">= 1.x.x",
 "react-native-linear-gradient": ">= 2.x.x",
-"react-native-dynamic-vector-icons": ">= 0.0.3"
 ```
 
 ## Basic Usage
