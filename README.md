@@ -45,14 +45,14 @@ npm i react-native-gradient-header
 ## Basic Usage
 
 ```ruby
-import { GradientHeader } from "react-native-gradient-header";
+import GradientHeader from "react-native-gradient-header";
 
 <GradientHeader />
 ```
 
 ## Advanced Usage
 ```ruby
-import { GradientHeader } from "react-native-gradient-header";
+import GradientHeader from "react-native-gradient-header";
 
 <GradientHeader
   title="Title"
