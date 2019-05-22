@@ -75,6 +75,8 @@ import GradientHeader from "react-native-gradient-header";
 | imageOnPress           | function  |               null                | set the onPress function for profile image                                 |
 | position               |   style   |                top                | set the background shape's position                                        |
 | headerContentComponent | component |          chech the code           | set your own design for the header content                                 |
+| shadowStyle            |   style   |              shadow               | set your own shadow style instead of the implemented one                   |
+| shadowColor            |   color   |              "#000"               | change the shadow color                                                    |
 
 
 ### ToDos
