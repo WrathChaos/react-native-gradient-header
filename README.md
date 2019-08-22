@@ -1,12 +1,18 @@
 <img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/logo.png" width="1050"/>
 
-Fully customizable and unique shape Gradient Header for React Native.
 
-[![npm version](https://img.shields.io/npm/v/react-native-gradient-header.svg)](https://www.npmjs.com/package/react-native-gradient-header)
-[![npm](https://img.shields.io/npm/dt/react-native-gradient-header.svg)](https://www.npmjs.com/package/react-native-gradient-header)
-![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/react-native-button)
+
+
+[![Fully customizable and unique shape Gradient Header for React Native](https://img.shields.io/badge/-Fully%20customizable%20and%20unique%20shape%20Gradient%20Header%20for%20React%20Native-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-native-gradient-header)
+
+
+[![npm version](https://img.shields.io/npm/v/react-native-gradient-header.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-gradient-header)
+[![npm](https://img.shields.io/npm/dt/react-native-gradient-header.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-gradient-header)
+![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+
 
 <p align="center">
 <img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/Screenshots/example.png" width="49.7%" />
