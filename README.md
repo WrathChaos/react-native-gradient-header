@@ -10,7 +10,7 @@
 [![npm version](https://img.shields.io/npm/v/react-native-gradient-header.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-gradient-header)
 [![npm](https://img.shields.io/npm/dt/react-native-gradient-header.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-gradient-header)
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) [![Greenkeeper badge](https://badges.greenkeeper.io/WrathChaos/react-native-gradient-header.svg)](https://greenkeeper.io/)
 
 
 
