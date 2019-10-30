@@ -48,14 +48,14 @@ npm i react-native-gradient-header
 
 ## Basic Usage
 
-```ruby
+```jsx
 import GradientHeader from "react-native-gradient-header";
 
 <GradientHeader />
 ```
 
 ## Advanced Usage
-```ruby
+```jsx
 import GradientHeader from "react-native-gradient-header";
 
 <GradientHeader
@@ -87,7 +87,7 @@ import GradientHeader from "react-native-gradient-header";
 
 ### ToDos
 
-- [x] LICENSE
+- [x] ~~LICENSE~~
 - [ ] Expo Support (Coming Soon)
 - [ ] Write an article about the lib on Medium
 
