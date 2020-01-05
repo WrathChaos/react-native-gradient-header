@@ -1,18 +1,13 @@
 <img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/logo.png" width="1050"/>
 
-
 [![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/react-native-button)
 
-
 [![Fully customizable and unique shape Gradient Header for React Native](https://img.shields.io/badge/-Fully%20customizable%20and%20unique%20shape%20Gradient%20Header%20for%20React%20Native-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-native-gradient-header)
-
 
 [![npm version](https://img.shields.io/npm/v/react-native-gradient-header.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-gradient-header)
 [![npm](https://img.shields.io/npm/dt/react-native-gradient-header.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-gradient-header)
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-
 
 <p align="center">
 <img alt="React Native Gradient Header" src="https://github.com/WrathChaos/react-native-gradient-header/blob/master/assets/Screenshots/example.png" width="49.7%" />
@@ -33,7 +28,6 @@ Add the dependency:
 npm i react-native-gradient-header
 ```
 
-
 ## Peer Dependencies
 
 ###### IMPORTANT! You need install them.
@@ -41,9 +35,8 @@ npm i react-native-gradient-header
 ```
 "react": ">= 16.x.x",
 "react-native": ">= 0.55.x",
-"react-native-linear-gradient": ">= 2.x.x",
-"@freakycoder/react-native-helpers": ">= x.x.x",
-"@react-native-community/status-bar": ">= 1.0.3"
+"react-native-linear-gradient": ">= 2.5.6",
+"@freakycoder/react-native-helpers": ">= 0.1.2",
 ```
 
 ## Basic Usage
@@ -51,10 +44,11 @@ npm i react-native-gradient-header
 ```jsx
 import GradientHeader from "react-native-gradient-header";
 
-<GradientHeader />
+<GradientHeader />;
 ```
 
 ## Advanced Usage
+
 ```jsx
 import GradientHeader from "react-native-gradient-header";
 
@@ -63,7 +57,7 @@ import GradientHeader from "react-native-gradient-header";
   subtitle="Have a nice day Kuray"
   gradientColors={["#00416A", "#E4E5E6"]}
   imageSource={require("./assets/profile.jpg")}
-/>
+/>;
 ```
 
 ## Configuration - Props
@@ -84,13 +78,11 @@ import GradientHeader from "react-native-gradient-header";
 | shadowStyle            |   style   |              shadow               | set your own shadow style instead of the implemented one                   |
 | shadowColor            |   color   |              "#000"               | change the shadow color                                                    |
 
-
 ### ToDos
 
 - [x] ~~LICENSE~~
 - [ ] Expo Support (Coming Soon)
 - [ ] Write an article about the lib on Medium
-
 
 ## Author
 
